@@ -25,9 +25,9 @@ import requests
 # CONFIG - edit these to change what gets tracked
 # ---------------------------------------------------------------------------
 
-GITHUB_TOPICS = ["vibe-coding"]
-PYPI_PACKAGES = ["aider-chat"]  # add more pip-installable package names here
-TRENDS_TERMS = ["vibe coding"]
+GITHUB_TOPICS = ["vibe-coding", "claude-code", "github-copilot"] # add "-" instead of a space between words
+PYPI_PACKAGES = ["vibe-coding", "claude-code", "github copilot"]  # add more pip-installable package names here
+TRENDS_TERMS = ["vibe coding", "claude code", "github copilot"]
 
 CSV_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "vibecoding_trends.csv")
 CSV_HEADERS = ["date", "source", "metric", "value"]
