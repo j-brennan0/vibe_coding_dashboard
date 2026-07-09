@@ -1,1 +1,16 @@
 date,source,metric,value
+2026-07-09,github,repo_count_vibe-coding,4783
+2026-07-09,github,repo_count_github-copilot,2159
+2026-07-09,github,repo_count_claude-code,44762
+2026-07-09,github,repo_count_codex,14455
+2026-07-09,github,repo_count_cursor-ide,364
+2026-07-09,hackernews,weekly_stories_vibe_coding,15
+2026-07-09,hackernews,weekly_comments_vibe_coding,145
+2026-07-09,hackernews,weekly_stories_github_copilot,10
+2026-07-09,hackernews,weekly_comments_github_copilot,40
+2026-07-09,hackernews,weekly_stories_claude_code,137
+2026-07-09,hackernews,weekly_comments_claude_code,699
+2026-07-09,hackernews,weekly_stories_chatgpt_codex,11
+2026-07-09,hackernews,weekly_comments_chatgpt_codex,50
+2026-07-09,hackernews,weekly_stories_cursor_ai,16
+2026-07-09,hackernews,weekly_comments_cursor_ai,21
